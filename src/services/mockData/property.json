@@ -1,0 +1,296 @@
+[
+  {
+    "id": "1",
+    "title": "Modern Downtown Condo with City Views",
+    "price": 850000,
+    "propertyType": "condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1200,
+    "address": {
+      "street": "123 Main Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94102"
+    },
+    "coordinates": {
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
+      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80"
+    ],
+    "description": "Stunning modern condo in the heart of downtown with panoramic city views. Features open floor plan, premium finishes, and access to building amenities including rooftop deck and fitness center.",
+    "features": [
+      "City Views",
+      "Rooftop Deck",
+      "Fitness Center",
+      "In-Unit Laundry",
+      "Stainless Steel Appliances",
+      "Hardwood Floors",
+      "Walk-in Closet",
+      "Concierge Service"
+    ],
+    "listingDate": "2024-01-15T00:00:00Z",
+    "status": "for-sale"
+  },
+  {
+    "id": "2",
+    "title": "Charming Victorian Home with Garden",
+    "price": 1250000,
+    "propertyType": "single-family",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFeet": 1800,
+    "address": {
+      "street": "456 Oak Avenue",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94117"
+    },
+    "coordinates": {
+      "lat": 37.7849,
+      "lng": -122.4294
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&q=80",
+      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=800&q=80"
+    ],
+    "description": "Beautiful Victorian home featuring original architectural details, spacious rooms, and a lovely garden. Recently updated kitchen and bathrooms while maintaining historic charm.",
+    "features": [
+      "Historic Character",
+      "Private Garden",
+      "Updated Kitchen",
+      "Original Details",
+      "Fireplace",
+      "Parking",
+      "Quiet Street",
+      "Near Parks"
+    ],
+    "listingDate": "2024-01-10T00:00:00Z",
+    "status": "for-sale"
+  },
+  {
+    "id": "3",
+    "title": "Luxury Penthouse with Terrace",
+    "price": 4500,
+    "propertyType": "condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1400,
+    "address": {
+      "street": "789 Pine Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94108"
+    },
+    "coordinates": {
+      "lat": 37.7649,
+      "lng": -122.4094
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&q=80",
+      "https://images.unsplash.com/photo-1600566753151-384129cf4e3e?w=800&q=80"
+    ],
+    "description": "Spectacular penthouse apartment with private terrace offering breathtaking views. High-end finishes throughout, floor-to-ceiling windows, and premium building amenities.",
+    "features": [
+      "Private Terrace",
+      "Panoramic Views",
+      "Floor-to-Ceiling Windows",
+      "Premium Finishes",
+      "Doorman",
+      "Gym",
+      "Pool",
+      "Valet Parking"
+    ],
+    "listingDate": "2024-01-20T00:00:00Z",
+    "status": "for-rent"
+  },
+  {
+    "id": "4",
+    "title": "Spacious Family Home with Pool",
+    "price": 1850000,
+    "propertyType": "single-family",
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "squareFeet": 2500,
+    "address": {
+      "street": "321 Elm Drive",
+      "city": "Palo Alto",
+      "state": "CA",
+      "zipCode": "94301"
+    },
+    "coordinates": {
+      "lat": 37.4419,
+      "lng": -122.1430
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&q=80",
+      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&q=80",
+      "https://images.unsplash.com/photo-1600047509358-9dc75507daeb?w=800&q=80"
+    ],
+    "description": "Perfect family home in prestigious neighborhood. Open concept living spaces, gourmet kitchen, swimming pool, and beautifully landscaped yard. Top-rated schools nearby.",
+    "features": [
+      "Swimming Pool",
+      "Gourmet Kitchen",
+      "Open Concept",
+      "Landscaped Yard",
+      "Top Schools",
+      "3-Car Garage",
+      "Master Suite",
+      "Study Room"
+    ],
+    "listingDate": "2024-01-05T00:00:00Z",
+    "status": "for-sale"
+  },
+  {
+    "id": "5",
+    "title": "Modern Townhouse in Tech Hub",
+    "price": 3200,
+    "propertyType": "townhouse",
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "squareFeet": 1600,
+    "address": {
+      "street": "654 Tech Way",
+      "city": "Mountain View",
+      "state": "CA",
+      "zipCode": "94041"
+    },
+    "coordinates": {
+      "lat": 37.3861,
+      "lng": -122.0839
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600607687644-c7171b42498b?w=800&q=80",
+      "https://images.unsplash.com/photo-1600566752229-450a04af7738?w=800&q=80",
+      "https://images.unsplash.com/photo-1600566752734-845cdb2b6e6c?w=800&q=80"
+    ],
+    "description": "Contemporary townhouse in prime tech location. Features modern design, smart home technology, private patio, and walking distance to major tech companies and transit.",
+    "features": [
+      "Smart Home Tech",
+      "Private Patio",
+      "Modern Design",
+      "Tech Commute",
+      "Transit Access",
+      "Central AC",
+      "Attached Garage",
+      "Energy Efficient"
+    ],
+    "listingDate": "2024-01-12T00:00:00Z",
+    "status": "for-rent"
+  },
+  {
+    "id": "6",
+    "title": "Cozy Studio in Trendy Neighborhood",
+    "price": 2400,
+    "propertyType": "condo",
+    "bedrooms": 0,
+    "bathrooms": 1,
+    "squareFeet": 650,
+    "address": {
+      "street": "987 Mission Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94103"
+    },
+    "coordinates": {
+      "lat": 37.7849,
+      "lng": -122.4194
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1586105251261-72a756497a11?w=800&q=80"
+    ],
+    "description": "Stylish studio apartment in vibrant neighborhood. Efficient layout with modern amenities, great natural light, and walking distance to restaurants, cafes, and nightlife.",
+    "features": [
+      "Modern Amenities",
+      "Great Natural Light",
+      "Efficient Layout",
+      "Trendy Location",
+      "Walk to Transit",
+      "Restaurants Nearby",
+      "Laundry Facility",
+      "Building Security"
+    ],
+    "listingDate": "2024-01-18T00:00:00Z",
+    "status": "for-rent"
+  },
+  {
+    "id": "7",
+    "title": "Restored Mid-Century Modern Home",
+    "price": 2100000,
+    "propertyType": "single-family",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "squareFeet": 2000,
+    "address": {
+      "street": "147 Hillside Road",
+      "city": "Sausalito",
+      "state": "CA",
+      "zipCode": "94965"
+    },
+    "coordinates": {
+      "lat": 37.8590,
+      "lng": -122.4852
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600566753376-12c8ab7fb75b?w=800&q=80",
+      "https://images.unsplash.com/photo-1600585154526-990dced4db0d?w=800&q=80",
+      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&q=80"
+    ],
+    "description": "Exceptional mid-century modern home with stunning bay views. Carefully restored with period-appropriate materials while adding modern conveniences. Private and serene setting.",
+    "features": [
+      "Bay Views",
+      "Mid-Century Design",
+      "Restored Details",
+      "Private Setting",
+      "Modern Updates",
+      "Large Windows",
+      "Deck Access",
+      "Quiet Location"
+    ],
+    "listingDate": "2024-01-08T00:00:00Z",
+    "status": "for-sale"
+  },
+  {
+    "id": "8",
+    "title": "Luxury 2BR Apartment with Amenities",
+    "price": 3800,
+    "propertyType": "condo",
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "squareFeet": 1100,
+    "address": {
+      "street": "852 Market Street",
+      "city": "San Francisco",
+      "state": "CA",
+      "zipCode": "94102"
+    },
+    "coordinates": {
+      "lat": 37.7849,
+      "lng": -122.4094
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+      "https://images.unsplash.com/photo-1600607688969-a5bfcd646154?w=800&q=80"
+    ],
+    "description": "Premium apartment in full-service building with concierge, fitness center, and rooftop lounge. Modern finishes, in-unit washer/dryer, and convenient downtown location.",
+    "features": [
+      "Concierge Service",
+      "Fitness Center",
+      "Rooftop Lounge",
+      "In-Unit Laundry",
+      "Modern Finishes",
+      "Downtown Location",
+      "24/7 Security",
+      "Package Service"
+    ],
+    "listingDate": "2024-01-22T00:00:00Z",
+    "status": "for-rent"
+  }
+]

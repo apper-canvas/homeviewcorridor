@@ -1,0 +1,20 @@
+[
+  {
+    "id": "sp1",
+    "propertyId": "1",
+    "savedDate": "2024-01-25T10:30:00Z",
+    "notes": "Love the city views and modern finishes"
+  },
+  {
+    "id": "sp2",
+    "propertyId": "4",
+    "savedDate": "2024-01-24T15:45:00Z",
+    "notes": "Perfect for family with the pool and good schools"
+  },
+  {
+    "id": "sp3",
+    "propertyId": "7",
+    "savedDate": "2024-01-23T09:15:00Z",
+    "notes": "Amazing mid-century architecture and bay views"
+  }
+]

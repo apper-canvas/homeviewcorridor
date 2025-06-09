@@ -1,0 +1,38 @@
+[
+  {
+    "id": "filter1",
+    "name": "Family Homes",
+    "priceMin": 800000,
+    "priceMax": 2000000,
+    "propertyTypes": ["single-family"],
+    "bedroomsMin": 3,
+    "bathroomsMin": 2,
+    "squareFeetMin": 1500,
+    "location": "",
+    "radius": 15
+  },
+  {
+    "id": "filter2",
+    "name": "Downtown Condos",
+    "priceMin": 500000,
+    "priceMax": 1200000,
+    "propertyTypes": ["condo"],
+    "bedroomsMin": 1,
+    "bathroomsMin": 1,
+    "squareFeetMin": 600,
+    "location": "San Francisco",
+    "radius": 5
+  },
+  {
+    "id": "filter3",
+    "name": "Luxury Rentals",
+    "priceMin": 3000,
+    "priceMax": 6000,
+    "propertyTypes": ["condo", "townhouse"],
+    "bedroomsMin": 2,
+    "bathroomsMin": 2,
+    "squareFeetMin": 1000,
+    "location": "",
+    "radius": 20
+  }
+]
