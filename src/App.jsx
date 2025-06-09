@@ -3,8 +3,8 @@ import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-import Layout from './components/Layout';
-import { routeArray } from './config/routes';
+import Layout from '@/components/Layout';
+import { routeArray } from '@/config/routes';
 
 function App() {
   return (
